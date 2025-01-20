@@ -50,7 +50,7 @@ This project implements a real-time streaming data pipeline using Kafka and Dock
 ```bash
 # Install Docker and Docker Compose
 # Clone this repository
-git clone <repository-url>
+git clone https://github.com/SriBvastav/fetch_de_take_home.git
 cd kafka-streaming-pipeline
 ```
 
